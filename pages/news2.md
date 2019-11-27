@@ -2,7 +2,7 @@
 layout: simple-page
 permalink: /news/
 breadcrumb: News
-title: News
+title: News2
 ---
 
 # Media Releases
